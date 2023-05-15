@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="cloudquicklabs1",
+    name="testprojsachin",
     version="0.0.4",
     author="sachin",
     author_email="reachsachinquick@gmail.com",
